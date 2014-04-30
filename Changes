@@ -1,6 +1,6 @@
 Revision history for Perinci-Sub-Convert-v
 
-0.01     2014-04-30 (SHARYANTO) (not yet released)
+0.01     2014-04-30 (SHARYANTO)
 
-         - First release. Extracted from Perinci-Sub-Wrapper to make
-           the latter stay lean.
+         - First release. Extracted from Perinci-Sub-Wrapper to make the latter
+           stay lean (this functionality will be seldom used in the future).
