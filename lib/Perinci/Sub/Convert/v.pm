@@ -1,14 +1,14 @@
 package Perinci::Sub::Convert::v;
 
+# DATE
+# VERSION
+
 use 5.010001;
 use strict;
 use warnings;
 
 use Exporter qw(import);
 our @EXPORT_OK = qw(convert_property_v);
-
-# VERSION
-# DATE
 
 our %SPEC;
 
@@ -100,7 +100,7 @@ sub convert_property_v {
 }
 
 1;
-# ABSTRACT: Convert v1.0 Rinci function metadata to v1.1
+# ABSTRACT:
 
 =head1 SYNOPSIS
 
