@@ -55,7 +55,7 @@ sub convert_property_v {
                     delete $oldarg->[1]{arg_pos};
                 }
                 if (defined $oldarg->[1]{arg_greedy}) {
-                    $newarg->{greedy} = $oldarg->[1]{arg_greedy};
+                    $newarg->{slurpy} = $oldarg->[1]{arg_greedy};
                     delete $oldarg->[1]{arg_greedy};
                 }
                 if (defined $oldarg->[1]{arg_complete}) {
