@@ -1,9 +1,9 @@
-0.030   2019-04-15 (PERLANCAR)
+0.030   2019-04-15  Released-By: PERLANCAR
 
 	- Update to Rinci 1.1.88 (slurpy).
 
 
-0.02    2015-09-03 (PERLANCAR)
+0.02    2015-09-03  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -12,7 +12,7 @@
 	  requirement.
 
 
-0.01     2014-04-30 (SHARYANTO)
+0.01     2014-04-30  Released-By: SHARYANTO
 
          - First release. Extracted from Perinci-Sub-Wrapper to make the latter
            stay lean (this functionality will be seldom used in the future).
